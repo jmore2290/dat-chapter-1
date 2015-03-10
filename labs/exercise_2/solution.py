@@ -1,4 +1,4 @@
-st = []
+rlist = []
 qlist = []
 summ = 0
 
